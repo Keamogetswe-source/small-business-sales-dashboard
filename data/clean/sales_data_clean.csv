@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Branch,Product,Category,Customer_Type,Quantity,Unit_Price,Unit_Cost,Sales,Cost,Profit,Payment_Method
+ORD0500,2026-09-22,Midrand,Bath Soap,Personal Care,Individual,6,28,16,168,96,72,EFT
+ORD0499,2026-01-07,Soweto,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,EFT
+ORD0498,2026-01-29,Midrand,Paper Towels,Household,Individual,6,55,33,330,198,132,Cash
+ORD0497,2026-08-12,Soweto,Washing Powder,Household,Individual,4,80.75,55,323,220,103,Card
+ORD0496,2026-06-17,Centurion,Tea 100s,Groceries,Individual,6,45.6,31,273.6,186,87.6,Card
+ORD0495,2026-03-20,Midrand,Dishwashing Liquid,Household,Individual,5,42,25,210,125,85,Cash
+ORD0494,2026-05-27,Tembisa,Laundry Soap,Household,Individual,6,32,19,192,114,78,Cash
+ORD0493,2026-05-15,Soweto,Washing Powder,Household,Small Business,15,85,55,1275,825,450,EFT
+ORD0492,2026-03-30,Centurion,Laundry Soap,Household,Individual,5,30.4,19,152,95,57,Cash
+ORD0491,2026-07-04,Midrand,Bath Soap,Personal Care,Individual,5,28,16,140,80,60,Card
+ORD0490,2026-02-27,Soweto,Maize Meal 5kg,Groceries,Individual,1,78.75,52,78.75,52,26.75,Cash
+ORD0489,2026-07-20,Midrand,Paper Towels,Household,Individual,2,55,33,110,66,44,Card
+ORD0488,2026-01-14,Midrand,Toothpaste,Personal Care,Individual,5,35,20,175,100,75,EFT
+ORD0487,2026-02-13,Soweto,Coffee 200g,Groceries,Individual,6,60.9,39,365.4,234,131.4,Card
+ORD0486,2026-07-16,Midrand,Rice 5kg,Groceries,Individual,2,92,68,184,136,48,Card
+ORD0485,2026-08-15,Soweto,Dishwashing Liquid,Household,Small Business,5,39.9,25,199.5,125,74.5,EFT
+ORD0484,2026-03-26,Centurion,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,Unknown
+ORD0483,2026-03-10,Soweto,Dishwashing Liquid,Household,Individual,1,44.1,25,44.1,25,19.1,EFT
+ORD0482,2026-02-22,Pretoria,Cooking Oil 2L,Groceries,Individual,3,78,58,234,174,60,Card
+ORD0481,2026-08-05,Soweto,Maize Meal 5kg,Groceries,Individual,4,71.25,52,285,208,77,EFT
+ORD0480,2026-04-26,Tembisa,Paper Towels,Household,Individual,1,55,33,55,33,22,Cash
+ORD0479,2026-02-16,Pretoria,Washing Powder,Household,Individual,1,85,55,85,55,30,EFT
+ORD0478,2026-03-26,Pretoria,Rice 5kg,Groceries,Individual,6,92,68,552,408,144,Card
+ORD0477,2026-05-21,Pretoria,Paper Towels,Household,Individual,1,55,33,55,33,22,EFT
+ORD0476,2026-01-01,Centurion,Toothpaste,Personal Care,Small Business,5,35,20,175,100,75,Cash
+ORD0475,2026-02-20,Centurion,Washing Powder,Household,Individual,2,85,55,170,110,60,Card
+ORD0474,2026-03-08,Tembisa,Body Lotion,Personal Care,Individual,3,68.4,43,205.2,129,76.2,Cash
+ORD0473,2026-08-08,Soweto,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0472,2026-08-23,Midrand,Body Lotion,Personal Care,Individual,5,72,43,360,215,145,Cash
+ORD0471,2026-09-07,Midrand,Tea 100s,Groceries,Individual,6,45.6,31,273.6,186,87.6,EFT
+ORD0470,2026-02-08,Pretoria,Rice 5kg,Groceries,Individual,3,92,68,276,204,72,Card
+ORD0469,2026-03-14,Tembisa,Paper Towels,Household,Individual,4,55,33,220,132,88,Card
+ORD0468,2026-03-16,Midrand,Body Lotion,Personal Care,Individual,6,72,43,432,258,174,Card
+ORD0467,2026-07-30,Pretoria,Shampoo,Personal Care,Small Business,5,65,38,325,190,135,Cash
+ORD0466,2026-05-30,Midrand,Tea 100s,Groceries,Individual,5,45.6,31,228,155,73,Cash
+ORD0465,2026-06-29,Tembisa,Shampoo,Personal Care,Individual,2,65,38,130,76,54,EFT
+ORD0464,2026-08-08,Soweto,Tea 100s,Groceries,Individual,2,48,31,96,62,34,Cash
+ORD0463,2026-05-02,Soweto,Laundry Soap,Household,Individual,6,32,19,192,114,78,EFT
+ORD0462,2026-01-17,Centurion,Shampoo,Personal Care,Individual,1,65,38,65,38,27,Cash
+ORD0461,2026-04-22,Centurion,Dishwashing Liquid,Household,Individual,6,42,25,252,150,102,Card
+ORD0460,2026-07-07,Tembisa,Body Lotion,Personal Care,Individual,6,72,43,432,258,174,EFT
+ORD0459,2026-09-11,Tembisa,Coffee 200g,Groceries,Individual,1,58,39,58,39,19,EFT
+ORD0458,2026-05-21,Soweto,Coffee 200g,Groceries,Individual,4,60.9,39,243.6,156,87.6,EFT
+ORD0457,2026-03-27,Pretoria,Tea 100s,Groceries,Individual,2,48,31,96,62,34,Cash
+ORD0456,2026-09-16,Centurion,Rice 5kg,Groceries,Individual,4,92,68,368,272,96,Card
+ORD0455,2026-01-28,Midrand,Washing Powder,Household,Individual,2,85,55,170,110,60,EFT
+ORD0454,2026-03-27,Centurion,Shampoo,Personal Care,Individual,3,65,38,195,114,81,EFT
+ORD0453,2026-07-16,Centurion,Bath Soap,Personal Care,Individual,5,28,16,140,80,60,EFT
+ORD0452,2026-07-11,Soweto,Coffee 200g,Groceries,Individual,5,58,39,290,195,95,EFT
+ORD0451,2026-02-13,Soweto,Cooking Oil 2L,Groceries,Individual,3,74.1,58,222.3,174,48.3,Cash
+ORD0450,2026-06-30,Centurion,Tea 100s,Groceries,Individual,6,48,31,288,186,102,EFT
+ORD0449,2026-06-10,Tembisa,Rice 5kg,Groceries,Individual,5,87.4,68,437,340,97,Card
+ORD0448,2026-06-16,Soweto,Maize Meal 5kg,Groceries,Individual,6,75,52,450,312,138,EFT
+ORD0447,2026-05-23,Pretoria,Tea 100s,Groceries,Individual,5,48,31,240,155,85,Card
+ORD0446,2026-04-12,Centurion,Tea 100s,Groceries,Individual,1,48,31,48,31,17,Cash
+ORD0445,2026-04-05,Soweto,Paper Towels,Household,Individual,4,52.25,33,209,132,77,EFT
+ORD0444,2026-03-23,Midrand,Coffee 200g,Groceries,Individual,4,58,39,232,156,76,Card
+ORD0443,2026-02-25,Soweto,Deodorant,Personal Care,Small Business,6,54.6,30,327.6,180,147.6,Cash
+ORD0442,2026-06-03,Pretoria,Laundry Soap,Household,Individual,1,32,19,32,19,13,EFT
+ORD0441,2026-09-01,Pretoria,Maize Meal 5kg,Groceries,Individual,4,75,52,300,208,92,Cash
+ORD0440,2026-06-09,Midrand,Maize Meal 5kg,Groceries,Individual,5,75,52,375,260,115,Card
+ORD0439,2026-08-01,Pretoria,Dishwashing Liquid,Household,Small Business,14,42,25,588,350,238,Card
+ORD0438,2026-09-14,Soweto,Cooking Oil 2L,Groceries,Small Business,10,74.1,58,741,580,161,Card
+ORD0437,2026-04-24,Centurion,Cooking Oil 2L,Groceries,Individual,6,81.9,58,491.4,348,143.4,EFT
+ORD0436,2026-02-24,Pretoria,Dishwashing Liquid,Household,Individual,5,44.1,25,220.5,125,95.5,EFT
+ORD0435,2026-01-23,Tembisa,Paper Towels,Household,Individual,4,55,33,220,132,88,Card
+ORD0434,2026-02-13,Pretoria,Laundry Soap,Household,Individual,6,32,19,192,114,78,Cash
+ORD0433,2026-01-19,Midrand,Toilet Paper 18s,Household,Small Business,11,120.75,78,1328.25,858,470.25,EFT
+ORD0432,2026-07-25,Tembisa,Coffee 200g,Groceries,Small Business,14,58,39,812,546,266,EFT
+ORD0431,2026-08-05,Centurion,Dishwashing Liquid,Household,Individual,5,42,25,210,125,85,EFT
+ORD0430,2026-09-13,Soweto,Paper Towels,Household,Individual,3,55,33,165,99,66,EFT
+ORD0429,2026-08-25,Soweto,Maize Meal 5kg,Groceries,Individual,6,71.25,52,427.5,312,115.5,Card
+ORD0428,2026-04-13,Tembisa,Coffee 200g,Groceries,Unknown,5,55.1,39,275.5,195,80.5,EFT
+ORD0427,2026-05-05,Midrand,Rice 5kg,Groceries,Individual,4,92,68,368,272,96,Cash
+ORD0426,2026-04-01,Centurion,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,EFT
+ORD0425,2026-06-03,Midrand,Tea 100s,Groceries,Small Business,6,48,31,288,186,102,Card
+ORD0424,2026-08-14,Midrand,Rice 5kg,Groceries,Small Business,13,96.6,68,1255.8,884,371.8,Cash
+ORD0423,2026-06-05,Pretoria,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,Card
+ORD0422,2026-05-07,Centurion,Tea 100s,Groceries,Individual,4,45.6,31,182.4,124,58.4,Cash
+ORD0421,2026-05-22,Centurion,Shampoo,Personal Care,Individual,1,65,38,65,38,27,Card
+ORD0420,2026-05-18,Midrand,Shampoo,Personal Care,Individual,1,65,38,65,38,27,Card
+ORD0419,2026-05-05,Tembisa,Coffee 200g,Groceries,Individual,4,58,39,232,156,76,Cash
+ORD0418,2026-06-16,Centurion,Washing Powder,Household,Individual,4,80.75,55,323,220,103,EFT
+ORD0417,2026-09-20,Centurion,Dishwashing Liquid,Household,Individual,3,44.1,25,132.3,75,57.3,Cash
+ORD0416,2026-07-04,Midrand,Dishwashing Liquid,Household,Individual,2,42,25,84,50,34,Card
+ORD0415,2026-07-19,Midrand,Cooking Oil 2L,Groceries,Individual,1,78,58,78,58,20,Card
+ORD0414,2026-05-18,Soweto,Rice 5kg,Groceries,Individual,6,92,68,552,408,144,EFT
+ORD0413,2026-07-14,Pretoria,Laundry Soap,Household,Individual,2,30.4,19,60.8,38,22.8,Cash
+ORD0412,2026-07-02,Tembisa,Rice 5kg,Groceries,Individual,6,96.6,68,579.6,408,171.6,EFT
+ORD0411,2026-06-17,Pretoria,Paper Towels,Household,Individual,4,55,33,220,132,88,Cash
+ORD0410,2026-04-29,Pretoria,Cooking Oil 2L,Groceries,Individual,5,81.9,58,409.5,290,119.5,Card
+ORD0409,2026-02-10,Tembisa,Toilet Paper 18s,Household,Small Business,3,109.25,78,327.75,234,93.75,Card
+ORD0408,2026-07-19,Tembisa,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,EFT
+ORD0407,2026-03-15,Centurion,Deodorant,Personal Care,Individual,2,54.6,30,109.2,60,49.2,Cash
+ORD0406,2026-01-17,Soweto,Deodorant,Personal Care,Small Business,3,52,30,156,90,66,EFT
+ORD0405,2026-04-19,Tembisa,Maize Meal 5kg,Groceries,Individual,1,75,52,75,52,23,EFT
+ORD0404,2026-06-19,Tembisa,Body Lotion,Personal Care,Small Business,11,68.4,43,752.4,473,279.4,Cash
+ORD0403,2026-01-29,Pretoria,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,EFT
+ORD0402,2026-02-11,Pretoria,Dishwashing Liquid,Household,Individual,4,44.1,25,176.4,100,76.4,Card
+ORD0401,2026-02-10,Midrand,Rice 5kg,Groceries,Individual,2,92,68,184,136,48,Card
+ORD0400,2026-04-09,Tembisa,Coffee 200g,Groceries,Individual,3,58,39,174,117,57,Card
+ORD0399,2026-08-09,Soweto,Dishwashing Liquid,Household,Small Business,11,42,25,462,275,187,Cash
+ORD0398,2026-09-29,Midrand,Coffee 200g,Groceries,Small Business,3,60.9,39,182.7,117,65.7,EFT
+ORD0397,2026-09-07,Pretoria,Washing Powder,Household,Individual,4,80.75,55,323,220,103,Cash
+ORD0396,2026-07-11,Pretoria,Tea 100s,Groceries,Individual,5,48,31,240,155,85,EFT
+ORD0395,2026-04-29,Pretoria,Toilet Paper 18s,Household,Individual,2,120.75,78,241.5,156,85.5,Card
+ORD0394,2026-01-18,Pretoria,Body Lotion,Personal Care,Individual,1,72,43,72,43,29,Cash
+ORD0393,2026-09-08,Soweto,Deodorant,Personal Care,Small Business,13,49.4,30,642.2,390,252.2,EFT
+ORD0392,2026-09-08,Centurion,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,Cash
+ORD0391,2026-05-06,Centurion,Coffee 200g,Groceries,Individual,6,58,39,348,234,114,Card
+ORD0390,2026-08-02,Midrand,Bath Soap,Personal Care,Individual,200,28,16,5600,3200,2400,EFT
+ORD0389,2026-03-16,Pretoria,Shampoo,Personal Care,Individual,5,68.25,38,341.25,190,151.25,EFT
+ORD0388,2026-04-15,Midrand,Cooking Oil 2L,Groceries,Individual,5,78,58,390,290,100,EFT
+ORD0387,2026-09-12,Centurion,Dishwashing Liquid,Household,Small Business,14,42,25,588,350,238,Card
+ORD0386,2026-08-27,Tembisa,Paper Towels,Household,Individual,3,55,33,165,99,66,EFT
+ORD0385,2026-04-15,Centurion,Deodorant,Personal Care,Individual,3,52,30,156,90,66,Card
+ORD0384,2026-04-19,Soweto,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,EFT
+ORD0383,2026-04-22,Centurion,Toothpaste,Personal Care,Small Business,8,35,20,280,160,120,Cash
+ORD0382,2026-07-13,Tembisa,Tea 100s,Groceries,Individual,1,48,31,48,31,17,EFT
+ORD0381,2026-07-09,Pretoria,Coffee 200g,Groceries,Individual,2,55.1,39,110.2,78,32.2,Card
+ORD0380,2026-07-18,Soweto,Shampoo,Personal Care,Individual,6,61.75,38,370.5,228,142.5,Card
+ORD0379,2026-01-30,Tembisa,Rice 5kg,Groceries,Small Business,11,96.6,68,1062.6,748,314.6,Cash
+ORD0378,2026-08-31,Soweto,Body Lotion,Personal Care,Individual,6,72,43,432,258,174,Card
+ORD0377,2026-06-13,Centurion,Rice 5kg,Groceries,Individual,4,92,68,368,272,96,EFT
+ORD0376,2026-08-07,Tembisa,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0375,2026-07-31,Midrand,Shampoo,Personal Care,Individual,5,65,38,325,190,135,EFT
+ORD0374,2026-06-14,Soweto,Shampoo,Personal Care,Small Business,13,68.25,38,887.25,494,393.25,Cash
+ORD0373,2026-09-15,Midrand,Toothpaste,Personal Care,Small Business,14,36.75,20,514.5,280,234.5,Card
+ORD0372,2026-01-23,Centurion,Maize Meal 5kg,Groceries,Individual,2,71.25,52,142.5,104,38.5,Cash
+ORD0371,2026-02-04,Pretoria,Tea 100s,Groceries,Individual,5,45.6,31,228,155,73,Cash
+ORD0370,2026-08-03,Tembisa,Laundry Soap,Household,Small Business,3,32,19,96,57,39,Cash
+ORD0369,2026-03-21,Midrand,Toothpaste,Personal Care,Small Business,14,33.25,20,465.5,280,185.5,Cash
+ORD0368,2026-08-06,Tembisa,Rice 5kg,Groceries,Small Business,6,92,68,552,408,144,Card
+ORD0367,2026-04-25,Pretoria,Laundry Soap,Household,Individual,3,32,19,96,57,39,EFT
+ORD0366,2026-06-28,Pretoria,Bath Soap,Personal Care,Small Business,9,29.4,16,264.6,144,120.6,Cash
+ORD0365,2026-07-12,Pretoria,Paper Towels,Household,Small Business,11,55,33,605,363,242,EFT
+ORD0364,2026-03-11,Centurion,Cooking Oil 2L,Groceries,Small Business,9,78,58,702,522,180,Card
+ORD0363,2026-01-31,Pretoria,Deodorant,Personal Care,Individual,3,52,30,156,90,66,Cash
+ORD0362,2026-04-22,Tembisa,Dishwashing Liquid,Household,Individual,3,39.9,25,119.7,75,44.7,EFT
+ORD0361,2026-08-25,Midrand,Toilet Paper 18s,Household,Individual,3,109.25,78,327.75,234,93.75,EFT
+ORD0360,2026-08-21,Soweto,Coffee 200g,Groceries,Individual,5,55.1,39,275.5,195,80.5,EFT
+ORD0359,2026-04-16,Tembisa,Maize Meal 5kg,Groceries,Individual,5,75,52,375,260,115,Cash
+ORD0358,2026-03-18,Soweto,Cooking Oil 2L,Groceries,Small Business,10,74.1,58,741,580,161,EFT
+ORD0357,2026-02-27,Pretoria,Body Lotion,Personal Care,Individual,5,72,43,360,215,145,EFT
+ORD0356,2026-02-11,Tembisa,Maize Meal 5kg,Groceries,Individual,3,71.25,52,213.75,156,57.75,Unknown
+ORD0355,2026-08-30,Tembisa,Laundry Soap,Household,Individual,2,32,19,64,38,26,EFT
+ORD0354,2026-03-20,Centurion,Toilet Paper 18s,Household,Small Business,8,115,78,920,624,296,EFT
+ORD0353,2026-03-02,Midrand,Cooking Oil 2L,Groceries,Individual,2,78,58,156,116,40,Card
+ORD0352,2026-07-27,Tembisa,Deodorant,Personal Care,Small Business,14,52,30,728,420,308,EFT
+ORD0351,2026-07-04,Soweto,Washing Powder,Household,Individual,4,85,55,340,220,120,Cash
+ORD0350,2026-06-18,Midrand,Tea 100s,Groceries,Individual,1,48,31,48,31,17,EFT
+ORD0349,2026-06-15,Soweto,Washing Powder,Household,Individual,2,85,55,170,110,60,Card
+ORD0348,2026-06-17,Pretoria,Rice 5kg,Groceries,Individual,2,92,68,184,136,48,Card
+ORD0347,2026-04-09,Soweto,Tea 100s,Groceries,Small Business,9,48,31,432,279,153,EFT
+ORD0346,2026-08-23,Midrand,Toilet Paper 18s,Household,Individual,6,115,78,690,468,222,Card
+ORD0345,2026-08-28,Midrand,Toothpaste,Personal Care,Small Business,8,35,20,280,160,120,EFT
+ORD0344,2026-05-26,Centurion,Paper Towels,Household,Individual,4,55,33,220,132,88,EFT
+ORD0343,2026-05-29,Pretoria,Washing Powder,Household,Individual,5,80.75,55,403.75,275,128.75,Card
+ORD0342,2026-04-01,Pretoria,Body Lotion,Personal Care,Individual,4,72,43,288,172,116,EFT
+ORD0341,2026-04-29,Tembisa,Toilet Paper 18s,Household,Individual,1,115,78,115,78,37,Card
+ORD0340,2026-04-13,Midrand,Cooking Oil 2L,Groceries,Individual,1,74.1,58,74.1,58,16.1,EFT
+ORD0339,2026-03-22,Centurion,Paper Towels,Household,Small Business,10,55,33,550,330,220,EFT
+ORD0338,2026-06-19,Centurion,Dishwashing Liquid,Household,Individual,2,39.9,25,79.8,50,29.8,EFT
+ORD0337,2026-01-26,Tembisa,Toothpaste,Personal Care,Individual,1,33.25,20,33.25,20,13.25,Card
+ORD0336,2026-05-20,Soweto,Dishwashing Liquid,Household,Individual,5,42,25,210,125,85,Cash
+ORD0335,2026-05-12,Centurion,Toothpaste,Personal Care,Individual,5,35,20,175,100,75,EFT
+ORD0334,2026-05-29,Pretoria,Shampoo,Personal Care,Small Business,4,65,38,260,152,108,Card
+ORD0333,2026-03-04,Tembisa,Paper Towels,Household,Individual,4,55,33,220,132,88,Cash
+ORD0332,2026-09-08,Midrand,Maize Meal 5kg,Groceries,Individual,6,75,52,450,312,138,Card
+ORD0331,2026-06-02,Soweto,Shampoo,Personal Care,Individual,6,65,38,390,228,162,EFT
+ORD0330,2026-07-01,Midrand,Tea 100s,Groceries,Individual,2,48,31,96,62,34,EFT
+ORD0329,2026-07-12,Midrand,Bath Soap,Personal Care,Individual,5,28,16,140,80,60,EFT
+ORD0328,2026-03-12,Tembisa,Toothpaste,Personal Care,Individual,6,35,20,210,120,90,EFT
+ORD0327,2026-09-14,Tembisa,Deodorant,Personal Care,Individual,6,49.4,30,296.4,180,116.4,EFT
+ORD0326,2026-01-10,Centurion,Cooking Oil 2L,Groceries,Individual,4,78,58,312,232,80,Card
+ORD0325,2026-03-17,Soweto,Washing Powder,Household,Individual,6,80.75,55,484.5,330,154.5,Cash
+ORD0324,2026-04-27,Pretoria,Tea 100s,Groceries,Individual,5,50.4,31,252,155,97,Card
+ORD0323,2026-01-14,Tembisa,Maize Meal 5kg,Groceries,Unknown,6,78.75,52,472.5,312,160.5,EFT
+ORD0322,2026-01-09,Midrand,Cooking Oil 2L,Groceries,Individual,4,81.9,58,327.6,232,95.6,Card
+ORD0321,2026-09-17,Tembisa,Coffee 200g,Groceries,Individual,5,58,39,290,195,95,Card
+ORD0320,2026-03-25,Centurion,Tea 100s,Groceries,Individual,3,50.4,31,151.2,93,58.2,Card
+ORD0319,2026-03-18,Tembisa,Deodorant,Personal Care,Individual,3,54.6,30,163.8,90,73.8,Card
+ORD0318,2026-01-20,Soweto,Toilet Paper 18s,Household,Individual,4,120.75,78,483,312,171,Card
+ORD0317,2026-03-15,Soweto,Tea 100s,Groceries,Individual,5,45.6,31,228,155,73,Cash
+ORD0316,2026-03-02,Soweto,Dishwashing Liquid,Household,Individual,3,44.1,25,132.3,75,57.3,Card
+ORD0315,2026-05-28,Pretoria,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,EFT
+ORD0314,2026-07-07,Pretoria,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,Card
+ORD0313,2026-01-05,Pretoria,Rice 5kg,Groceries,Individual,3,92,68,276,204,72,Card
+ORD0312,2026-06-30,Pretoria,Washing Powder,Household,Individual,5,85,55,425,275,150,Card
+ORD0311,2026-02-16,Centurion,Coffee 200g,Groceries,Individual,2,58,39,116,78,38,EFT
+ORD0310,2026-09-13,Tembisa,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,Cash
+ORD0309,2026-03-23,Midrand,Deodorant,Personal Care,Individual,3,52,30,156,90,66,Cash
+ORD0308,2026-02-19,Pretoria,Shampoo,Personal Care,Small Business,12,65,38,780,456,324,Cash
+ORD0307,2026-06-13,Soweto,Maize Meal 5kg,Groceries,Individual,4,75,52,300,208,92,Cash
+ORD0306,2026-06-26,Centurion,Bath Soap,Personal Care,Individual,5,29.4,16,147,80,67,Cash
+ORD0305,2026-08-26,Soweto,Cooking Oil 2L,Groceries,Individual,3,78,58,234,174,60,EFT
+ORD0304,2026-08-21,Pretoria,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,Card
+ORD0303,2026-05-29,Midrand,Maize Meal 5kg,Groceries,Individual,6,75,52,450,312,138,Card
+ORD0302,2026-04-18,Tembisa,Rice 5kg,Groceries,Individual,1,92,68,92,68,24,EFT
+ORD0301,2026-01-22,Pretoria,Dishwashing Liquid,Household,Individual,6,44.1,25,264.6,150,114.6,Card
+ORD0300,2026-03-20,Soweto,Paper Towels,Household,Individual,5,55,33,275,165,110,EFT
+ORD0299,2026-03-06,Midrand,Tea 100s,Groceries,Individual,5,48,31,240,155,85,EFT
+ORD0298,2026-09-23,Midrand,Body Lotion,Personal Care,Individual,2,75.6,43,151.2,86,65.2,Card
+ORD0297,2026-03-20,Midrand,Bath Soap,Personal Care,Individual,6,28,16,168,96,72,Card
+ORD0296,2026-04-04,Soweto,Rice 5kg,Groceries,Individual,1,87.4,68,87.4,68,19.4,EFT
+ORD0295,2026-02-07,Centurion,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0294,2026-07-30,Centurion,Body Lotion,Personal Care,Individual,2,72,43,144,86,58,EFT
+ORD0293,2026-02-03,Midrand,Rice 5kg,Groceries,Small Business,14,92,68,1288,952,336,EFT
+ORD0292,2026-07-08,Centurion,Laundry Soap,Household,Small Business,5,33.6,19,168,95,73,Cash
+ORD0291,2026-03-13,Soweto,Laundry Soap,Household,Individual,300,33.6,19,10080,5700,4380,EFT
+ORD0290,2026-03-22,Soweto,Laundry Soap,Household,Individual,2,30.4,19,60.8,38,22.8,Cash
+ORD0289,2026-06-13,Midrand,Toilet Paper 18s,Household,Individual,5,115,78,575,390,185,Card
+ORD0288,2026-03-04,Soweto,Body Lotion,Personal Care,Individual,2,72,43,144,86,58,Cash
+ORD0287,2026-05-14,Centurion,Toothpaste,Personal Care,Small Business,7,35,20,245,140,105,Cash
+ORD0286,2026-01-14,Soweto,Maize Meal 5kg,Groceries,Individual,5,71.25,52,356.25,260,96.25,Card
+ORD0285,2026-09-29,Midrand,Rice 5kg,Groceries,Individual,3,92,68,276,204,72,Cash
+ORD0284,2026-03-20,Centurion,Cooking Oil 2L,Groceries,Individual,1,81.9,58,81.9,58,23.9,Cash
+ORD0283,2026-05-01,Midrand,Cooking Oil 2L,Groceries,Individual,5,74.1,58,370.5,290,80.5,EFT
+ORD0282,2026-03-15,Tembisa,Paper Towels,Household,Individual,1,55,33,55,33,22,Cash
+ORD0281,2026-07-27,Midrand,Coffee 200g,Groceries,Small Business,13,58,39,754,507,247,Cash
+ORD0280,2026-06-30,Tembisa,Rice 5kg,Groceries,Individual,1,87.4,68,87.4,68,19.4,EFT
+ORD0279,2026-08-07,Soweto,Toilet Paper 18s,Household,Individual,4,109.25,78,437,312,125,EFT
+ORD0278,2026-06-14,Pretoria,Dishwashing Liquid,Household,Individual,3,42,25,126,75,51,Card
+ORD0277,2026-02-12,Centurion,Dishwashing Liquid,Household,Individual,2,44.1,25,88.2,50,38.2,Card
+ORD0276,2026-06-23,Soweto,Maize Meal 5kg,Groceries,Individual,3,78.75,52,236.25,156,80.25,Card
+ORD0275,2026-03-05,Midrand,Rice 5kg,Groceries,Small Business,14,92,68,1288,952,336,Card
+ORD0274,2026-04-08,Midrand,Cooking Oil 2L,Groceries,Small Business,3,78,58,234,174,60,Card
+ORD0273,2026-09-21,Centurion,Body Lotion,Personal Care,Individual,3,68.4,43,205.2,129,76.2,EFT
+ORD0272,2026-05-31,Soweto,Washing Powder,Household,Individual,1,85,55,85,55,30,Card
+ORD0271,2026-09-03,Soweto,Laundry Soap,Household,Unknown,6,32,19,192,114,78,Cash
+ORD0270,2026-06-30,Tembisa,Cooking Oil 2L,Groceries,Small Business,5,78,58,390,290,100,EFT
+ORD0269,2026-05-04,Pretoria,Laundry Soap,Household,Individual,3,32,19,96,57,39,Cash
+ORD0268,2026-07-18,Midrand,Shampoo,Personal Care,Individual,3,61.75,38,185.25,114,71.25,Card
+ORD0267,2026-09-17,Tembisa,Washing Powder,Household,Individual,4,80.75,55,323,220,103,EFT
+ORD0266,2026-02-13,Tembisa,Cooking Oil 2L,Groceries,Individual,5,81.9,58,409.5,290,119.5,EFT
+ORD0265,2026-01-01,Tembisa,Cooking Oil 2L,Groceries,Individual,4,78,58,312,232,80,EFT
+ORD0264,2026-01-09,Tembisa,Tea 100s,Groceries,Individual,2,48,31,96,62,34,Card
+ORD0263,2026-08-23,Pretoria,Dishwashing Liquid,Household,Small Business,10,44.1,25,441,250,191,EFT
+ORD0262,2026-02-26,Midrand,Toothpaste,Personal Care,Individual,1,35,20,35,20,15,Card
+ORD0261,2026-04-21,Soweto,Coffee 200g,Groceries,Small Business,12,60.9,39,730.8,468,262.8,Card
+ORD0260,2026-08-29,Centurion,Tea 100s,Groceries,Individual,1,45.6,31,45.6,31,14.6,Card
+ORD0259,2026-03-12,Pretoria,Shampoo,Personal Care,Small Business,10,65,38,650,380,270,EFT
+ORD0258,2026-02-11,Midrand,Toothpaste,Personal Care,Individual,1,35,20,35,20,15,Cash
+ORD0257,2026-01-14,Centurion,Washing Powder,Household,Individual,3,85,55,255,165,90,Card
+ORD0256,2026-09-20,Soweto,Body Lotion,Personal Care,Individual,2,72,43,144,86,58,Card
+ORD0255,2026-09-22,Pretoria,Shampoo,Personal Care,Individual,2,65,38,130,76,54,Card
+ORD0254,2026-05-09,Pretoria,Paper Towels,Household,Individual,3,57.75,33,173.25,99,74.25,Cash
+ORD0253,2026-09-28,Centurion,Bath Soap,Personal Care,Small Business,15,29.4,16,441,240,201,Cash
+ORD0252,2026-07-08,Tembisa,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0251,2026-05-26,Centurion,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Cash
+ORD0250,2026-08-13,Pretoria,Rice 5kg,Groceries,Individual,6,92,68,552,408,144,Card
+ORD0249,2026-07-12,Soweto,Bath Soap,Personal Care,Individual,6,29.4,16,176.4,96,80.4,Cash
+ORD0248,2026-09-27,Pretoria,Paper Towels,Household,Individual,5,55,33,275,165,110,EFT
+ORD0247,2026-04-26,Soweto,Bath Soap,Personal Care,Individual,1,29.4,16,29.4,16,13.4,EFT
+ORD0246,2026-07-05,Midrand,Bath Soap,Personal Care,Small Business,8,28,16,224,128,96,Cash
+ORD0245,2026-09-27,Pretoria,Paper Towels,Household,Individual,5,55,33,275,165,110,Cash
+ORD0244,2026-02-13,Midrand,Coffee 200g,Groceries,Individual,3,58,39,174,117,57,EFT
+ORD0243,2026-03-14,Midrand,Shampoo,Personal Care,Small Business,14,65,38,910,532,378,Cash
+ORD0242,2026-05-10,Tembisa,Body Lotion,Personal Care,Individual,1,75.6,43,75.6,43,32.6,EFT
+ORD0241,2026-06-21,Pretoria,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,Card
+ORD0240,2026-07-10,Midrand,Rice 5kg,Groceries,Individual,3,96.6,68,289.8,204,85.8,Cash
+ORD0239,2026-05-07,Centurion,Maize Meal 5kg,Groceries,Individual,5,75,52,375,260,115,Card
+ORD0238,2026-02-22,Midrand,Toilet Paper 18s,Household,Individual,6,115,78,690,468,222,Cash
+ORD0237,2026-04-07,Midrand,Tea 100s,Groceries,Individual,2,45.6,31,91.2,62,29.2,Card
+ORD0236,2026-09-17,Centurion,Maize Meal 5kg,Groceries,Individual,6,71.25,52,427.5,312,115.5,Card
+ORD0235,2026-01-30,Midrand,Body Lotion,Personal Care,Individual,6,68.4,43,410.4,258,152.4,EFT
+ORD0234,2026-01-29,Midrand,Coffee 200g,Groceries,Individual,4,58,39,232,156,76,Cash
+ORD0233,2026-06-11,Soweto,Maize Meal 5kg,Groceries,Individual,4,75,52,300,208,92,Card
+ORD0232,2026-08-18,Tembisa,Paper Towels,Household,Individual,5,55,33,275,165,110,EFT
+ORD0231,2026-02-08,Soweto,Laundry Soap,Household,Individual,4,33.6,19,134.4,76,58.4,EFT
+ORD0230,2026-02-22,Soweto,Shampoo,Personal Care,Individual,5,65,38,325,190,135,EFT
+ORD0229,2026-04-10,Midrand,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,Cash
+ORD0228,2026-06-20,Soweto,Dishwashing Liquid,Household,Individual,1,44.1,25,44.1,25,19.1,EFT
+ORD0227,2026-07-25,Tembisa,Dishwashing Liquid,Household,Individual,3,42,25,126,75,51,Cash
+ORD0226,2026-07-05,Pretoria,Rice 5kg,Groceries,Small Business,6,92,68,552,408,144,EFT
+ORD0225,2026-07-27,Pretoria,Cooking Oil 2L,Groceries,Individual,5,78,58,390,290,100,EFT
+ORD0224,2026-08-08,Tembisa,Rice 5kg,Groceries,Individual,4,92,68,368,272,96,Cash
+ORD0223,2026-07-23,Pretoria,Rice 5kg,Groceries,Individual,1,92,68,92,68,24,EFT
+ORD0222,2026-09-30,Soweto,Coffee 200g,Groceries,Individual,6,58,39,348,234,114,Cash
+ORD0221,2026-03-03,Pretoria,Maize Meal 5kg,Groceries,Individual,2,75,52,150,104,46,Card
+ORD0220,2026-04-15,Midrand,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Card
+ORD0219,2026-06-07,Pretoria,Toothpaste,Personal Care,Individual,5,33.25,20,166.25,100,66.25,Cash
+ORD0218,2026-02-26,Midrand,Paper Towels,Household,Individual,4,57.75,33,231,132,99,EFT
+ORD0217,2026-08-01,Midrand,Toothpaste,Personal Care,Individual,1,35,20,35,20,15,Card
+ORD0216,2026-02-11,Midrand,Maize Meal 5kg,Groceries,Individual,4,78.75,52,315,208,107,Card
+ORD0215,2026-02-13,Pretoria,Bath Soap,Personal Care,Individual,5,26.6,16,133,80,53,EFT
+ORD0214,2026-06-24,Soweto,Cooking Oil 2L,Groceries,Individual,3,81.9,58,245.7,174,71.7,EFT
+ORD0213,2026-01-16,Pretoria,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,Card
+ORD0212,2026-04-03,Soweto,Tea 100s,Groceries,Individual,1,48,31,48,31,17,EFT
+ORD0211,2026-04-03,Midrand,Toilet Paper 18s,Household,Individual,3,115,78,345,234,111,Cash
+ORD0210,2026-01-14,Tembisa,Deodorant,Personal Care,Individual,6,52,30,312,180,132,Cash
+ORD0209,2026-05-23,Tembisa,Toothpaste,Personal Care,Small Business,11,36.75,20,404.25,220,184.25,EFT
+ORD0208,2026-09-04,Soweto,Body Lotion,Personal Care,Individual,5,72,43,360,215,145,Cash
+ORD0207,2026-06-09,Midrand,Dishwashing Liquid,Household,Individual,2,42,25,84,50,34,EFT
+ORD0206,2026-07-01,Centurion,Body Lotion,Personal Care,Small Business,3,72,43,216,129,87,EFT
+ORD0205,2026-01-31,Tembisa,Coffee 200g,Groceries,Individual,6,55.1,39,330.6,234,96.6,Card
+ORD0204,2026-02-13,Pretoria,Rice 5kg,Groceries,Individual,6,92,68,552,408,144,Cash
+ORD0203,2026-05-11,Midrand,Bath Soap,Personal Care,Individual,4,26.6,16,106.4,64,42.4,Unknown
+ORD0202,2026-07-24,Centurion,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,EFT
+ORD0201,2026-04-21,Centurion,Maize Meal 5kg,Groceries,Small Business,9,75,52,675,468,207,Card
+ORD0200,2026-08-09,Pretoria,Laundry Soap,Household,Individual,6,33.6,19,201.6,114,87.6,EFT
+ORD0199,2026-06-16,Centurion,Tea 100s,Groceries,Individual,4,50.4,31,201.6,124,77.6,EFT
+ORD0198,2026-02-11,Midrand,Tea 100s,Groceries,Individual,2,48,31,96,62,34,EFT
+ORD0197,2026-07-25,Centurion,Paper Towels,Household,Individual,6,55,33,330,198,132,Cash
+ORD0196,2026-09-24,Midrand,Maize Meal 5kg,Groceries,Individual,1,71.25,52,71.25,52,19.25,Card
+ORD0195,2026-02-25,Centurion,Coffee 200g,Groceries,Individual,5,55.1,39,275.5,195,80.5,EFT
+ORD0194,2026-02-28,Pretoria,Maize Meal 5kg,Groceries,Individual,3,78.75,52,236.25,156,80.25,EFT
+ORD0193,2026-01-09,Soweto,Shampoo,Personal Care,Individual,6,65,38,390,228,162,EFT
+ORD0192,2026-01-14,Soweto,Washing Powder,Household,Individual,2,89.25,55,178.5,110,68.5,Card
+ORD0191,2026-03-16,Soweto,Coffee 200g,Groceries,Individual,2,55.1,39,110.2,78,32.2,EFT
+ORD0190,2026-04-30,Midrand,Laundry Soap,Household,Individual,5,30.4,19,152,95,57,Card
+ORD0189,2026-04-16,Pretoria,Body Lotion,Personal Care,Individual,2,75.6,43,151.2,86,65.2,Cash
+ORD0188,2026-04-19,Tembisa,Washing Powder,Household,Individual,3,85,55,255,165,90,Cash
+ORD0187,2026-05-22,Soweto,Dishwashing Liquid,Household,Small Business,10,39.9,25,399,250,149,EFT
+ORD0186,2026-07-08,Tembisa,Deodorant,Personal Care,Small Business,8,49.4,30,395.2,240,155.2,Card
+ORD0185,2026-07-09,Soweto,Maize Meal 5kg,Groceries,Individual,2,75,52,150,104,46,Cash
+ORD0184,2026-02-20,Centurion,Tea 100s,Groceries,Individual,3,45.6,31,136.8,93,43.8,EFT
+ORD0183,2026-07-09,Tembisa,Rice 5kg,Groceries,Individual,6,92,68,552,408,144,Card
+ORD0182,2026-03-01,Pretoria,Toothpaste,Personal Care,Small Business,5,35,20,175,100,75,Card
+ORD0181,2026-06-04,Centurion,Dishwashing Liquid,Household,Individual,1,42,25,42,25,17,Card
+ORD0180,2026-06-17,Tembisa,Toothpaste,Personal Care,Individual,6,35,20,210,120,90,EFT
+ORD0179,2026-07-15,Midrand,Dishwashing Liquid,Household,Individual,4,39.9,25,159.6,100,59.6,EFT
+ORD0178,2026-03-05,Centurion,Cooking Oil 2L,Groceries,Individual,6,78,58,468,348,120,EFT
+ORD0177,2026-07-23,Tembisa,Cooking Oil 2L,Groceries,Individual,4,74.1,58,296.4,232,64.4,Card
+ORD0176,2026-06-23,Pretoria,Maize Meal 5kg,Groceries,Small Business,5,75,52,375,260,115,EFT
+ORD0175,2026-05-20,Soweto,Shampoo,Personal Care,Small Business,10,65,38,650,380,270,EFT
+ORD0174,2026-04-13,Soweto,Laundry Soap,Household,Individual,3,33.6,19,100.8,57,43.8,EFT
+ORD0173,2026-03-09,Pretoria,Deodorant,Personal Care,Individual,6,52,30,312,180,132,Cash
+ORD0172,2026-02-19,Pretoria,Shampoo,Personal Care,Individual,1,68.25,38,68.25,38,30.25,Card
+ORD0171,2026-06-30,Soweto,Paper Towels,Household,Individual,3,55,33,165,99,66,EFT
+ORD0170,2026-01-26,Tembisa,Toilet Paper 18s,Household,Individual,3,115,78,345,234,111,EFT
+ORD0169,2026-06-01,Pretoria,Body Lotion,Personal Care,Individual,3,68.4,43,205.2,129,76.2,EFT
+ORD0168,2026-02-24,Soweto,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,EFT
+ORD0167,2026-08-06,Midrand,Maize Meal 5kg,Groceries,Small Business,6,75,52,450,312,138,Card
+ORD0166,2026-03-22,Pretoria,Maize Meal 5kg,Groceries,Small Business,12,75,52,900,624,276,EFT
+ORD0165,2026-05-11,Centurion,Shampoo,Personal Care,Individual,4,65,38,260,152,108,EFT
+ORD0164,2026-05-04,Centurion,Deodorant,Personal Care,Individual,2,52,30,104,60,44,EFT
+ORD0163,2026-04-03,Soweto,Bath Soap,Personal Care,Individual,4,29.4,16,117.6,64,53.6,EFT
+ORD0162,2026-07-03,Midrand,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,EFT
+ORD0161,2026-03-27,Midrand,Deodorant,Personal Care,Individual,3,49.4,30,148.2,90,58.2,Card
+ORD0160,2026-05-28,Soweto,Toilet Paper 18s,Household,Individual,1,109.25,78,109.25,78,31.25,Card
+ORD0159,2026-06-12,Centurion,Body Lotion,Personal Care,Individual,5,68.4,43,342,215,127,Cash
+ORD0158,2026-07-23,Pretoria,Body Lotion,Personal Care,Individual,6,75.6,43,453.6,258,195.6,Card
+ORD0157,2026-03-21,Pretoria,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0156,2026-02-21,Tembisa,Deodorant,Personal Care,Individual,6,52,30,312,180,132,Card
+ORD0155,2026-01-19,Soweto,Coffee 200g,Groceries,Small Business,8,55.1,39,440.8,312,128.8,Card
+ORD0154,2026-08-31,Centurion,Rice 5kg,Groceries,Small Business,15,92,68,1380,1020,360,Card
+ORD0153,2026-07-16,Soweto,Body Lotion,Personal Care,Individual,1,72,43,72,43,29,EFT
+ORD0152,2026-07-13,Centurion,Deodorant,Personal Care,Individual,2,52,30,104,60,44,EFT
+ORD0151,2026-09-08,Soweto,Maize Meal 5kg,Groceries,Individual,3,75,52,225,156,69,EFT
+ORD0150,2026-05-17,Pretoria,Shampoo,Personal Care,Individual,5,68.25,38,341.25,190,151.25,EFT
+ORD0149,2026-03-11,Pretoria,Shampoo,Personal Care,Individual,4,65,38,260,152,108,EFT
+ORD0148,2026-08-22,Tembisa,Bath Soap,Personal Care,Individual,5,29.4,16,147,80,67,EFT
+ORD0147,2026-05-30,Tembisa,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,Cash
+ORD0146,2026-02-28,Centurion,Dishwashing Liquid,Household,Individual,2,42,25,84,50,34,EFT
+ORD0145,2026-03-23,Midrand,Coffee 200g,Groceries,Individual,4,55.1,39,220.4,156,64.4,Cash
+ORD0144,2026-09-06,Pretoria,Washing Powder,Household,Small Business,12,85,55,1020,660,360,EFT
+ORD0143,2026-04-15,Midrand,Coffee 200g,Groceries,Individual,3,58,39,174,117,57,EFT
+ORD0142,2026-04-07,Tembisa,Cooking Oil 2L,Groceries,Individual,4,78,58,312,232,80,Cash
+ORD0141,2026-09-21,Pretoria,Paper Towels,Household,Small Business,10,55,33,550,330,220,Cash
+ORD0140,2026-01-19,Centurion,Dishwashing Liquid,Household,Individual,3,39.9,25,119.7,75,44.7,Card
+ORD0139,2026-06-18,Centurion,Toilet Paper 18s,Household,Individual,6,115,78,690,468,222,EFT
+ORD0138,2026-08-29,Midrand,Rice 5kg,Groceries,Individual,6,87.4,68,524.4,408,116.4,Cash
+ORD0137,2026-08-15,Midrand,Bath Soap,Personal Care,Small Business,9,28,16,252,144,108,Cash
+ORD0136,2026-01-11,Midrand,Tea 100s,Groceries,Individual,2,48,31,96,62,34,EFT
+ORD0135,2026-06-15,Tembisa,Shampoo,Personal Care,Individual,2,68.25,38,136.5,76,60.5,EFT
+ORD0134,2026-09-14,Tembisa,Maize Meal 5kg,Groceries,Individual,5,71.25,52,356.25,260,96.25,Card
+ORD0133,2026-08-13,Pretoria,Maize Meal 5kg,Groceries,Individual,6,75,52,450,312,138,Card
+ORD0132,2026-01-31,Soweto,Laundry Soap,Household,Individual,6,33.6,19,201.6,114,87.6,Card
+ORD0131,2026-02-28,Tembisa,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Cash
+ORD0130,2026-04-30,Midrand,Laundry Soap,Household,Individual,5,32,19,160,95,65,Card
+ORD0129,2026-05-30,Pretoria,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Cash
+ORD0128,2026-02-08,Soweto,Washing Powder,Household,Individual,6,89.25,55,535.5,330,205.5,Card
+ORD0127,2026-04-19,Midrand,Paper Towels,Household,Individual,2,55,33,110,66,44,EFT
+ORD0126,2026-06-06,Tembisa,Tea 100s,Groceries,Individual,6,45.6,31,273.6,186,87.6,Cash
+ORD0125,2026-09-25,Centurion,Maize Meal 5kg,Groceries,Small Business,7,78.75,52,551.25,364,187.25,Card
+ORD0124,2026-03-02,Tembisa,Laundry Soap,Household,Individual,5,33.6,19,168,95,73,Cash
+ORD0123,2026-01-28,Soweto,Bath Soap,Personal Care,Small Business,7,26.6,16,186.2,112,74.2,Cash
+ORD0122,2026-09-02,Pretoria,Body Lotion,Personal Care,Individual,4,68.4,43,273.6,172,101.6,EFT
+ORD0121,2026-05-26,Centurion,Maize Meal 5kg,Groceries,Individual,2,71.25,52,142.5,104,38.5,Card
+ORD0120,2026-05-30,Soweto,Paper Towels,Household,Small Business,10,52.25,33,522.5,330,192.5,Cash
+ORD0119,2026-06-04,Pretoria,Toilet Paper 18s,Household,Individual,3,109.25,78,327.75,234,93.75,Cash
+ORD0118,2026-05-25,Pretoria,Body Lotion,Personal Care,Individual,2,72,43,144,86,58,Cash
+ORD0117,2026-04-05,Soweto,Toothpaste,Personal Care,Individual,3,36.75,20,110.25,60,50.25,EFT
+ORD0116,2026-06-06,Midrand,Toothpaste,Personal Care,Individual,2,35,20,70,40,30,Cash
+ORD0115,2026-06-26,Centurion,Toilet Paper 18s,Household,Individual,3,115,78,345,234,111,Card
+ORD0114,2026-05-05,Midrand,Paper Towels,Household,Individual,4,57.75,33,231,132,99,EFT
+ORD0113,2026-09-09,Centurion,Laundry Soap,Household,Individual,3,32,19,96,57,39,Card
+ORD0112,2026-07-28,Centurion,Coffee 200g,Groceries,Individual,6,58,39,348,234,114,EFT
+ORD0111,2026-05-22,Tembisa,Washing Powder,Household,Individual,2,80.75,55,161.5,110,51.5,Cash
+ORD0110,2026-04-19,Midrand,Laundry Soap,Household,Individual,3,33.6,19,100.8,57,43.8,EFT
+ORD0109,2026-07-14,Midrand,Washing Powder,Household,Individual,3,85,55,255,165,90,Card
+ORD0108,2026-05-06,Pretoria,Shampoo,Personal Care,Small Business,6,65,38,390,228,162,EFT
+ORD0107,2026-09-05,Centurion,Rice 5kg,Groceries,Small Business,12,92,68,1104,816,288,Card
+ORD0106,2026-03-20,Centurion,Bath Soap,Personal Care,Individual,6,28,16,168,96,72,EFT
+ORD0105,2026-08-04,Centurion,Dishwashing Liquid,Household,Individual,3,42,25,126,75,51,EFT
+ORD0104,2026-09-30,Centurion,Paper Towels,Household,Individual,5,55,33,275,165,110,Cash
+ORD0103,2026-06-04,Tembisa,Laundry Soap,Household,Individual,5,30.4,19,152,95,57,Card
+ORD0102,2026-07-12,Centurion,Toilet Paper 18s,Household,Individual,5,115,78,575,390,185,Cash
+ORD0101,2026-02-28,Soweto,Shampoo,Personal Care,Individual,1,65,38,65,38,27,EFT
+ORD0100,2026-02-28,Tembisa,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Cash
+ORD0099,2026-04-13,Pretoria,Tea 100s,Groceries,Individual,2,48,31,96,62,34,EFT
+ORD0098,2026-04-25,Pretoria,Laundry Soap,Household,Small Business,3,30.4,19,91.2,57,34.2,Cash
+ORD0097,2026-05-10,Pretoria,Maize Meal 5kg,Groceries,Individual,5,71.25,52,356.25,260,96.25,Card
+ORD0096,2026-06-17,Soweto,Maize Meal 5kg,Groceries,Individual,4,75,52,300,208,92,Card
+ORD0095,2026-08-08,Soweto,Body Lotion,Personal Care,Individual,1,72,43,72,43,29,Card
+ORD0094,2026-01-14,Centurion,Tea 100s,Groceries,Individual,1,45.6,31,45.6,31,14.6,EFT
+ORD0093,2026-06-22,Centurion,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,EFT
+ORD0092,2026-04-23,Centurion,Toothpaste,Personal Care,Individual,4,33.25,20,133,80,53,Card
+ORD0091,2026-01-04,Midrand,Shampoo,Personal Care,Individual,4,68.25,38,273,152,121,EFT
+ORD0090,2026-07-19,Tembisa,Toilet Paper 18s,Household,Individual,5,115,78,575,390,185,Card
+ORD0089,2026-07-28,Midrand,Coffee 200g,Groceries,Individual,1,58,39,58,39,19,Card
+ORD0088,2026-04-29,Centurion,Toilet Paper 18s,Household,Individual,2,109.25,78,218.5,156,62.5,Card
+ORD0087,2026-05-20,Midrand,Cooking Oil 2L,Groceries,Small Business,4,78,58,312,232,80,Cash
+ORD0086,2026-09-06,Soweto,Shampoo,Personal Care,Individual,6,65,38,390,228,162,Cash
+ORD0085,2026-09-01,Centurion,Shampoo,Personal Care,Individual,6,65,38,390,228,162,EFT
+ORD0084,2026-09-16,Centurion,Body Lotion,Personal Care,Small Business,10,72,43,720,430,290,EFT
+ORD0083,2026-08-26,Tembisa,Coffee 200g,Groceries,Individual,4,60.9,39,243.6,156,87.6,Unknown
+ORD0082,2026-01-26,Tembisa,Toothpaste,Personal Care,Small Business,4,35,20,140,80,60,Cash
+ORD0081,2026-08-06,Soweto,Bath Soap,Personal Care,Small Business,14,29.4,16,411.6,224,187.6,Card
+ORD0080,2026-04-10,Centurion,Maize Meal 5kg,Groceries,Individual,2,71.25,52,142.5,104,38.5,Cash
+ORD0079,2026-05-06,Centurion,Tea 100s,Groceries,Small Business,4,48,31,192,124,68,Card
+ORD0078,2026-05-01,Midrand,Toothpaste,Personal Care,Small Business,5,33.25,20,166.25,100,66.25,Cash
+ORD0077,2026-02-13,Midrand,Coffee 200g,Groceries,Individual,5,58,39,290,195,95,Cash
+ORD0076,2026-08-15,Centurion,Paper Towels,Household,Individual,4,55,33,220,132,88,EFT
+ORD0075,2026-05-27,Soweto,Rice 5kg,Groceries,Individual,5,92,68,460,340,120,Card
+ORD0074,2026-03-31,Tembisa,Tea 100s,Groceries,Individual,5,45.6,31,228,155,73,Card
+ORD0073,2026-06-01,Tembisa,Bath Soap,Personal Care,Individual,6,28,16,168,96,72,EFT
+ORD0072,2026-03-05,Midrand,Coffee 200g,Groceries,Individual,4,58,39,232,156,76,Card
+ORD0071,2026-08-09,Pretoria,Paper Towels,Household,Small Business,12,55,33,660,396,264,EFT
+ORD0070,2026-08-12,Pretoria,Coffee 200g,Groceries,Small Business,11,58,39,638,429,209,Card
+ORD0069,2026-03-01,Centurion,Deodorant,Personal Care,Individual,3,49.4,30,148.2,90,58.2,EFT
+ORD0068,2026-08-11,Midrand,Toilet Paper 18s,Household,Individual,4,120.75,78,483,312,171,EFT
+ORD0067,2026-03-01,Midrand,Bath Soap,Personal Care,Individual,3,26.6,16,79.8,48,31.8,Cash
+ORD0066,2026-09-18,Centurion,Paper Towels,Household,Small Business,11,55,33,605,363,242,Cash
+ORD0065,2026-04-09,Centurion,Cooking Oil 2L,Groceries,Individual,1,78,58,78,58,20,Card
+ORD0064,2026-08-24,Midrand,Shampoo,Personal Care,Small Business,6,65,38,390,228,162,Cash
+ORD0063,2026-03-23,Pretoria,Rice 5kg,Groceries,Small Business,10,92,68,920,680,240,Cash
+ORD0062,2026-04-02,Midrand,Laundry Soap,Household,Small Business,15,32,19,480,285,195,Card
+ORD0061,2026-03-21,Soweto,Body Lotion,Personal Care,Individual,2,72,43,144,86,58,Cash
+ORD0060,2026-05-08,Pretoria,Cooking Oil 2L,Groceries,Individual,4,81.9,58,327.6,232,95.6,EFT
+ORD0059,2026-08-09,Soweto,Washing Powder,Household,Individual,1,85,55,85,55,30,Cash
+ORD0058,2026-03-18,Tembisa,Washing Powder,Household,Small Business,12,89.25,55,1071,660,411,Cash
+ORD0057,2026-08-15,Tembisa,Toilet Paper 18s,Household,Individual,1,109.25,78,109.25,78,31.25,Cash
+ORD0056,2026-08-05,Midrand,Washing Powder,Household,Individual,2,85,55,170,110,60,Cash
+ORD0055,2026-09-08,Midrand,Deodorant,Personal Care,Small Business,3,49.4,30,148.2,90,58.2,EFT
+ORD0054,2026-05-25,Tembisa,Toothpaste,Personal Care,Individual,2,35,20,70,40,30,EFT
+ORD0053,2026-05-16,Pretoria,Deodorant,Personal Care,Individual,5,52,30,260,150,110,Card
+ORD0052,2026-09-28,Pretoria,Paper Towels,Household,Small Business,7,52.25,33,365.75,231,134.75,Cash
+ORD0051,2026-07-09,Midrand,Bath Soap,Personal Care,Individual,5,28,16,140,80,60,EFT
+ORD0050,2026-04-20,Tembisa,Shampoo,Personal Care,Individual,3,61.75,38,185.25,114,71.25,Cash
+ORD0049,2026-01-05,Centurion,Tea 100s,Groceries,Small Business,4,45.6,31,182.4,124,58.4,EFT
+ORD0048,2026-07-22,Soweto,Paper Towels,Household,Individual,4,55,33,220,132,88,Cash
+ORD0047,2026-06-11,Midrand,Toothpaste,Personal Care,Individual,3,35,20,105,60,45,Card
+ORD0046,2026-01-21,Tembisa,Dishwashing Liquid,Household,Individual,5,44.1,25,220.5,125,95.5,EFT
+ORD0045,2026-05-01,Centurion,Dishwashing Liquid,Household,Small Business,12,42,25,504,300,204,EFT
+ORD0044,2026-09-18,Pretoria,Body Lotion,Personal Care,Individual,5,68.4,43,342,215,127,EFT
+ORD0043,2026-01-26,Tembisa,Maize Meal 5kg,Groceries,Individual,5,75,52,375,260,115,Cash
+ORD0042,2026-04-22,Pretoria,Tea 100s,Groceries,Individual,1,48,31,48,31,17,Cash
+ORD0041,2026-08-05,Tembisa,Paper Towels,Household,Individual,2,55,33,110,66,44,Card
+ORD0040,2026-01-02,Centurion,Shampoo,Personal Care,Small Business,15,65,38,975,570,405,Card
+ORD0039,2026-09-06,Centurion,Toothpaste,Personal Care,Small Business,3,35,20,105,60,45,Card
+ORD0038,2026-01-08,Pretoria,Deodorant,Personal Care,Individual,2,52,30,104,60,44,Card
+ORD0037,2026-05-08,Pretoria,Maize Meal 5kg,Groceries,Small Business,11,71.25,52,783.75,572,211.75,Cash
+ORD0036,2026-04-08,Tembisa,Maize Meal 5kg,Groceries,Individual,2,75,52,150,104,46,Card
+ORD0035,2026-02-20,Pretoria,Rice 5kg,Groceries,Individual,1,92,68,92,68,24,Cash
+ORD0034,2026-08-09,Midrand,Rice 5kg,Groceries,Individual,6,87.4,68,524.4,408,116.4,EFT
+ORD0033,2026-05-05,Centurion,Laundry Soap,Household,Individual,1,30.4,19,30.4,19,11.4,EFT
+ORD0032,2026-09-06,Soweto,Coffee 200g,Groceries,Individual,5,60.9,39,304.5,195,109.5,Card
+ORD0031,2026-02-04,Pretoria,Body Lotion,Personal Care,Individual,5,72,43,360,215,145,Card
+ORD0030,2026-04-28,Tembisa,Toothpaste,Personal Care,Individual,6,33.25,20,199.5,120,79.5,Unknown
+ORD0029,2026-09-22,Centurion,Dishwashing Liquid,Household,Individual,1,42,25,42,25,17,Cash
+ORD0028,2026-04-13,Midrand,Rice 5kg,Groceries,Small Business,13,92,68,1196,884,312,Card
+ORD0027,2026-09-01,Tembisa,Bath Soap,Personal Care,Individual,5,28,16,140,80,60,Cash
+ORD0026,2026-09-06,Pretoria,Laundry Soap,Household,Individual,2,32,19,64,38,26,EFT
+ORD0025,2026-05-03,Pretoria,Toothpaste,Personal Care,Small Business,4,33.25,20,133,80,53,EFT
+ORD0024,2026-01-01,Tembisa,Cooking Oil 2L,Groceries,Individual,1,78,58,78,58,20,Card
+ORD0023,2026-09-17,Tembisa,Toothpaste,Personal Care,Individual,2,36.75,20,73.5,40,33.5,EFT
+ORD0022,2026-05-15,Tembisa,Laundry Soap,Household,Individual,1,32,19,32,19,13,EFT
+ORD0021,2026-05-17,Midrand,Dishwashing Liquid,Household,Individual,2,42,25,84,50,34,Cash
+ORD0020,2026-05-09,Tembisa,Body Lotion,Personal Care,Small Business,13,68.4,43,889.2,559,330.2,EFT
+ORD0019,2026-08-05,Tembisa,Dishwashing Liquid,Household,Individual,5,42,25,210,125,85,EFT
+ORD0018,2026-02-16,Pretoria,Body Lotion,Personal Care,Individual,6,72,43,432,258,174,EFT
+ORD0017,2026-07-24,Midrand,Toothpaste,Personal Care,Small Business,5,36.75,20,183.75,100,83.75,Card
+ORD0016,2026-03-13,Soweto,Toilet Paper 18s,Household,Individual,3,120.75,78,362.25,234,128.25,Card
+ORD0015,2026-09-13,Centurion,Deodorant,Personal Care,Small Business,10,52,30,520,300,220,Card
+ORD0014,2026-06-11,Centurion,Shampoo,Personal Care,Individual,5,65,38,325,190,135,Cash
+ORD0013,2026-04-23,Midrand,Body Lotion,Personal Care,Individual,1,72,43,72,43,29,Cash
+ORD0012,2026-03-29,Tembisa,Toilet Paper 18s,Household,Individual,4,115,78,460,312,148,Card
+ORD0011,2026-07-01,Soweto,Paper Towels,Household,Individual,6,52.25,33,313.5,198,115.5,EFT
+ORD0010,2026-02-21,Centurion,Shampoo,Personal Care,Individual,3,65,38,195,114,81,Card
+ORD0009,2026-02-05,Pretoria,Paper Towels,Household,Individual,3,52.25,33,156.75,99,57.75,Cash
+ORD0008,2026-05-31,Tembisa,Deodorant,Personal Care,Small Business,12,52,30,624,360,264,EFT
+ORD0007,2026-08-24,Tembisa,Dishwashing Liquid,Household,Small Business,9,39.9,25,359.1,225,134.1,EFT
+ORD0006,2026-07-14,Pretoria,Cooking Oil 2L,Groceries,Small Business,12,78,58,936,696,240,Cash
+ORD0005,2026-08-05,Midrand,Shampoo,Personal Care,Individual,3,61.75,38,185.25,114,71.25,Cash
+ORD0004,2026-08-03,Soweto,Maize Meal 5kg,Groceries,Individual,1,75,52,75,52,23,EFT
+ORD0003,2026-04-22,Soweto,Coffee 200g,Groceries,Individual,5,58,39,290,195,95,EFT
+ORD0002,2026-02-22,Tembisa,Dishwashing Liquid,Household,Individual,1,39.9,25,39.9,25,14.9,Cash
+ORD0001,2026-02-27,Pretoria,Toilet Paper 18s,Household,Individual,2,115,78,230,156,74,EFT
