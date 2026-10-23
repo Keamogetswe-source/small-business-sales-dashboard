@@ -22,7 +22,7 @@ A data cleaning and analysis project on a fictional South African small-business
 
 Looker Studio: https://datastudio.google.com/reporting/b0c8e75f-2d09-485d-9b35-0746ca3f1f97
 
-_Add screenshots from the `screenshots/` folder here._
+![Sales dashboard overview](screenshots/dashboard-overview.png)
 
 ## What I did
 
