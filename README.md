@@ -20,7 +20,7 @@ A data cleaning and analysis project on a fictional South African small-business
 
 ## Dashboard
 
-Looker Studio: _add the shared link here_
+Looker Studio: https://datastudio.google.com/reporting/b0c8e75f-2d09-485d-9b35-0746ca3f1f97
 
 _Add screenshots from the `screenshots/` folder here._
 
